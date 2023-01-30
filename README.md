@@ -3,7 +3,7 @@
 
 ## Stuff I'm doing
 
-- I'm learning html for my website! [](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png)
+- I'm learning html for my website! 
 - Lua enjoyer
 
 - My website: [Crazygird](https://crazygird.github.io)
