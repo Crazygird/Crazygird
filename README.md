@@ -1,7 +1,6 @@
 <p align="center">
-Hello, I'm Mide!
+<font size="+2">Hello, I'm Mide!</font>
 </p>
 
-I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 
 
