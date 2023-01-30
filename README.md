@@ -1,4 +1,1 @@
-# Sight And Help For Students
-
-
-www.turbowarp.org
+#Hello I'm Mide
