@@ -7,7 +7,7 @@
 
 - 💻 I'm fluent in Lua coding.
 
-- Here is my super cool [website!](https://crazygird.github.io) (in progress)
+- 🚧 Here is my super cool [website!](https://crazygird.github.io) (in progress)
   </br>
   </br>
 
