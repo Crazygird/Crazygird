@@ -11,7 +11,7 @@
   </br>
   </br>
   
-### Stats
+## Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Crazygird)](https://github.com/ryo-ma/github-profile-trophy)
 
