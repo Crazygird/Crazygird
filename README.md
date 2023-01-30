@@ -1,8 +1,9 @@
 <h1 align="center">Hello, I'm Mide
 </h1>
 
-1. I'm sort-of new at html.
-2. Lua enjoyer
+- I'm sort-of new at html.
+- Lua enjoyer
+- My website: [Crazygird](https://crazygird.github.io)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Crazygird)](https://github.com/ryo-ma/github-profile-trophy)
 
