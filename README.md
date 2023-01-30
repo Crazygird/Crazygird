@@ -3,10 +3,11 @@
 
 ## Stuff I'm doing
 
-- I'm learning html for my website! 
-- Lua enjoyer
+- 📙 I'm learning html for my website! 
 
-- My website: [Crazygird](https://crazygird.github.io)
+- 💻 I'm fluent in Lua coding.
+
+- Here is my super cool [website!](https://crazygird.github.io) (in progress)
   </br>
   </br>
 
