@@ -13,7 +13,7 @@
   
 ## Stats
 
-<img src="https://img.shields.io/badge/Learning-Html-red?logo=HTMl5" alt="Html User">
+<img src="https://img.shields.io/badge/Learning-Html-red?logo=HTMl5" alt="Html User"> <img src="https://img.shields.io/badge/Lua-Enjoyer-blue?logo=lua" alt="Lua Enjoyer">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Crazygird)](https://github.com/ryo-ma/github-profile-trophy)
 
