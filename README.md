@@ -1,6 +1,8 @@
 <h1 align="center">Hello, I'm Mide
 </h1>
 
+## Stuff I'm doing
+
 - I'm sort-of new at html.
 - Lua enjoyer
 - My website: [Crazygird](https://crazygird.github.io)
