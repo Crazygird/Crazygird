@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Mide
+<h1 align="center">Hello, I'm Mide 🙂
 </h1>
 
 ## Stuff I'm doing
