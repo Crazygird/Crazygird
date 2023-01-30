@@ -4,7 +4,9 @@
 ## Stuff I'm doing
 
 - I'm sort-of new at html.
+
 - Lua enjoyer
+
 - My website: [Crazygird](https://crazygird.github.io)
 </br>
 </br>
