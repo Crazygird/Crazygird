@@ -10,6 +10,8 @@
 - 🚧 Here is my super cool [website!](https://crazygird.github.io) (in progress)
   </br>
   </br>
+  
+### Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Crazygird)](https://github.com/ryo-ma/github-profile-trophy)
 
