@@ -3,7 +3,7 @@
 
 ## Stuff I'm doing
 
-- I'm sort-of new at html.
+- I'm learning html for my website! [](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9v00g4XP1X0sFzxp64FIBSIgchtoRkAZSj_fjzq75u16gd3RcOmWYHJazTTHc6WSt30:https://www.w3.org/html/logo/downloads/HTML5_Logo.svg&usqp=CAU)
 
 - Lua enjoyer
 
