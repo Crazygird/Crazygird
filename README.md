@@ -4,8 +4,6 @@
 ## Stuff I'm doing
 
 - I'm learning html for my website! [](https://user-images.githubusercontent.com/95974074/215572423-9c2d7fac-2ca4-4916-9f20-fd059f47cd35.png)
-)
-)
 
 - Lua enjoyer
 
