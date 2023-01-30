@@ -1,5 +1,5 @@
 <p align="center">
-<font size="+2">Hello, I'm Mide!</font>
+<font size="+20">Hello, I'm Mide!</font>
 </p>
 
 
