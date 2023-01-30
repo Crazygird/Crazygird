@@ -13,7 +13,7 @@
   
 ## Stats
 
-<img src="https://img.shields.io/badge/Learning-Html-orange?logo=HTMl5" alt="Html User"> <img src="https://img.shields.io/badge/Lua-Enjoyer-blue?logo=lua" alt="Lua Enjoyer"> <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
+<img src="https://img.shields.io/badge/Learning-Html-orange?logo=HTMl5" alt="Html User"> <img src="https://img.shields.io/badge/Lua-Enjoyer-blue?logo=lua" alt="Lua Enjoyer"> <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown"> <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Crazygird)](https://github.com/ryo-ma/github-profile-trophy)
 
