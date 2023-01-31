@@ -9,7 +9,7 @@
 
 - 🚧 Here is my super cool [website!](https://crazygird.github.io) (in progress)
 
--Slightly in to exploiting stuff 😏 
+- Slightly in to exploiting stuff 😏 
   </br>
   </br>
   
