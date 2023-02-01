@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm Mide 🙂
 </h1>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=435&lines=I+definitely+love+coding)](https://git.io/typing-svg)
 
 ## Stuff I'm doing
